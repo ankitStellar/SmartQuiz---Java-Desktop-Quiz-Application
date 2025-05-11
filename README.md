@@ -4,6 +4,10 @@ It’s simple, professional, and makes it clear that it's a desktop-based quiz s
   Java (Swing for GUI)
   SQLite (Embedded database)
   JDBC (for database connectivity
+
+
+
+  
 -----------------------------------------------------------------------------------------------------------------
   SmartQuiz/
 ├── QuizApp.java         // Main GUI and logic
@@ -12,6 +16,10 @@ It’s simple, professional, and makes it clear that it's a desktop-based quiz s
 └── README.md
 
 =================================================================================================================
+
+
+
+
  
  Database Schema
    
@@ -23,6 +31,10 @@ It’s simple, professional, and makes it clear that it's a desktop-based quiz s
       optionC TEXT,
       correct TEXT
   );
+
+
+
+
 
 
   # Library Management System – PL/SQL Project
